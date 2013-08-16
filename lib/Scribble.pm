@@ -1,5 +1,5 @@
 package Scribble;
-use parent qw/Wx::Dialog/;
+@ISA = qw/Wx::Dialog/;
 
 
 use strict;
